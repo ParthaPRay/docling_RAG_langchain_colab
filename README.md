@@ -3,6 +3,8 @@
 This repository demonstrates how to set up a Retrieval-Augmented Generation (RAG) pipeline using **Docling**, **LangChain**, and **Colab**. This setup allows for efficient document processing, embedding generation, vector storage, and querying with a Language Model (LLM). The following sections elaborate on the workflow, components, and implementation details.
 
 ---
+PDF Supported
+---
 
 ## **Overview**
 
